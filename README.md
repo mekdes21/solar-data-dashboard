@@ -1,2 +1,1 @@
-# MoonLight-Solar-EDA
-Exploratory Data Analysis and Dashboard Development for MoonLight Energy Solutions
+Dashboard Development with Streamlit\n\n## Overview\nThis repository aims to design and deploy an interactive Streamlit dashboard for data visualization.\n\n## Setup Instructions\n\n### Clone Repository\n```\ngit clone <repo-url>\n```\n\n### Install Requirements\n```\ncd <repo-directory>\npip install -r requirements.txt\n```\n\n### Run the App\n```\nstreamlit run app/main.py\n```\n\n## Folder Structure\n\n- **app/main.py**: Main Streamlit application script.\n- **app/utils.py**: Utility functions for data visualization.\n- **tests/**: Contains unit tests.\n- **notebooks/**: Jupyter notebooks for analysis.\n\n## Next Steps\n- Develop the dashboard in . \n
